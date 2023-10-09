@@ -8,6 +8,7 @@ Libraries used in the project:
 Steps to run locally this project:
 
 - Frontend
-1. Make sure that you have installed `nodejs 18` in your local pc.
-2. run `pnpm install` to install dependencies.
-3. run `node app.js` to run app locally in the port `:3000`
+1. Make sure that you have installed `nodejs 18` on your local PC.
+2. Run `pnpm install` to install dependencies.
+3. You need to have a .env file with the database credentials.
+4. Run `node app.js` to run the app locally in the port `:3000`
